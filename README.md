@@ -1,8 +1,8 @@
-# Sharepoint XML schema to jsonSchema 
+# Sharepoint XML schema to JSON Schema 
 
 ## Purpose
 This is a demo API server listens incoming traffice from a SPfx plugin that sends Sharepoint Modern Page structure on publish.
-When API gets a new SP Page it converts XML schema to jsonSchema that can be used in Future CMS React Front-End.
+When API gets a new SP Page it converts XML schema to JSON Schema that can be used in Future CMS React Front-End.
 
 ### Initial Setup
 Rename setups/default.config.js to config.js and make changes according to your Future CMS React Front-End installation.
