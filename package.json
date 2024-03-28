@@ -17,7 +17,7 @@
     "body-parser": "^1.18.3",
     "connect": "^3.2.0",
     "cors": "^2.8.4",
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "html-entities": "^1.2.1",
     "html-minifier": "^3.5.21",
     "html2json": "^1.0.2",
